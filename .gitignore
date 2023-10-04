@@ -1,0 +1,6 @@
+# Arquivos e diretórios para ignorar no repositório Git
+parameter
+myvenv
+__pycache__/
+*.pyc
+*.pyo
