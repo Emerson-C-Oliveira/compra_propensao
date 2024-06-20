@@ -1,6 +1,6 @@
 # The Insurance Propensity Score
 
-![Sales Forescast](img/propensity_score.jpeg)
+![Sales Forescast](img/e-commerce.jpg)
 
 ## Business Problem
 
