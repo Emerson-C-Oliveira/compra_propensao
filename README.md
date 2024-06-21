@@ -1,6 +1,6 @@
 # The Insurance Propensity Score
 
-<img src="img/e-commerce.jpg" alt="Capa do Projeto" width="1069" height="500">
+<img src="img/e-commerce.jpg" alt="Capa do Projeto" width="1070" height="500">
 
 
 ## Business Problem
