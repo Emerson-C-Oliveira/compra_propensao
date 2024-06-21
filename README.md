@@ -1,6 +1,7 @@
 # The Insurance Propensity Score
 
-![Sales Forescast](img/e-commerce.jpg)
+<img src="img/e-commerce.jpg" alt="Capa do Projeto" width="1069" height="700">
+
 
 ## Business Problem
 
